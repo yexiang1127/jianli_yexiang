@@ -80,55 +80,55 @@ ul
 }
 @-webkit-keyframes myfirst /* Safari and Chrome */
 {
-    0%   {background:url("img/1.jpg");
+    0%   {background:url("../../Desktop/img/1.jpg");
     }
-    10%  {background: url("img/2.jpg");
+    10%  {background: url("../../Desktop/img/2.jpg");
 
     }
-    20%  {background: url("img/3.jpg");}
-    30% {background: url("img/4.jpg");}
-    40%   {background: url("img/15.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
-    90%  {background: url("img/25.jpg");}
-    100% {background: url("img/41.jpg");}
+    20%  {background: url("../../Desktop/img/3.jpg");}
+    30% {background: url("../../Desktop/img/4.jpg");}
+    40%   {background: url("../../Desktop/img/15.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
+    90%  {background: url("../../Desktop/img/25.jpg");}
+    100% {background: url("../../Desktop/img/41.jpg");}
 }
 @-moz-keyframes myfirst /*Firefox*/
 {
-    0%   {background:url("img/1.jpg");
+    0%   {background:url("../../Desktop/img/1.jpg");
     }
-    10%  {background: url("img/2.jpg");
+    10%  {background: url("../../Desktop/img/2.jpg");
 
     }
-    20%  {background: url("img/3.jpg");}
-    30% {background: url("img/4.jpg");}
-    40%   {background: url("img/15.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
-    90%  {background: url("img/23.jpg");}
-    100% {background: url("img/41.jpg");}
+    20%  {background: url("../../Desktop/img/3.jpg");}
+    30% {background: url("../../Desktop/img/4.jpg");}
+    40%   {background: url("../../Desktop/img/15.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
+    90%  {background: url("../../Desktop/img/23.jpg");}
+    100% {background: url("../../Desktop/img/41.jpg");}
 
 }
 @-o-keyframes myfirst /*Opera */
 {
-    0%   {background:url("img/1.jpg");
+    0%   {background:url("../../Desktop/img/1.jpg");
     }
-    10%  {background: url("img/2.jpg");
+    10%  {background: url("../../Desktop/img/2.jpg");
 
     }
-    20%  {background: url("img/3.jpg");}
-    30% {background: url("img/4.jpg");}
-    40%   {background: url("img/15.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
-    90%  {background: url("img/23.jpg");}
-    100% {background: url("img/41.jpg");}
+    20%  {background: url("../../Desktop/img/3.jpg");}
+    30% {background: url("../../Desktop/img/4.jpg");}
+    40%   {background: url("../../Desktop/img/15.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
+    90%  {background: url("../../Desktop/img/23.jpg");}
+    100% {background: url("../../Desktop/img/41.jpg");}
 
 }
 
@@ -254,55 +254,55 @@ ul
 }
 @-webkit-keyframes myfirst /* Safari and Chrome */
 {
-    0%   {background:url("img/29.jpg");
+    0%   {background:url("../../Desktop/img/29.jpg");
     }
-    10%  {background: url("img/27.jpg");
+    10%  {background: url("../../Desktop/img/27.jpg");
 
     }
-    20%  {background: url("img/31.jpg");}
-    30% {background: url("img/23.jpg");}
-    40%   {background: url("img/41.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
-    90%  {background: url("img/23.jpg");}
-    100% {background: url("img/41.jpg");}
+    20%  {background: url("../../Desktop/img/31.jpg");}
+    30% {background: url("../../Desktop/img/23.jpg");}
+    40%   {background: url("../../Desktop/img/41.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
+    90%  {background: url("../../Desktop/img/23.jpg");}
+    100% {background: url("../../Desktop/img/41.jpg");}
 }
 @-moz-keyframes myfirst /*Firefox*/
 {
-    0%   {background:url("img/1.jpg");
+    0%   {background:url("../../Desktop/img/1.jpg");
     }
-    10%  {background: url("img/2.jpg");
+    10%  {background: url("../../Desktop/img/2.jpg");
 
     }
     20%  {background: url("img/timg.jpg");}
-    30% {background: url("img/4.jpg");}
-    40%   {background: url("img/15.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
+    30% {background: url("../../Desktop/img/4.jpg");}
+    40%   {background: url("../../Desktop/img/15.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
     90%  {background: url("img/10 .jpg");}
     100% {background: url("img/11.jpg");}
 
 }
 @-o-keyframes myfirst /*Opera */
 {
-    0%   {background:url("img/1.jpg");
+    0%   {background:url("../../Desktop/img/1.jpg");
     }
-    10%  {background: url("img/2.jpg");
+    10%  {background: url("../../Desktop/img/2.jpg");
 
     }
-    20%  {background: url("img/3.jpg");}
-    30% {background: url("img/4.jpg");}
-    40%   {background: url("img/15.jpg");}
-    50%  {background: url("img/6.jpg");}
-    60%  {background: url("img/7.jpg");}
-    70%   {background: url("img/8.jpg");}
-    80%  {background: url("img/9.jpg");}
-    90%  {background: url("img/25.jpg");}
-    100% {background: url("img/41.jpg");}
+    20%  {background: url("../../Desktop/img/3.jpg");}
+    30% {background: url("../../Desktop/img/4.jpg");}
+    40%   {background: url("../../Desktop/img/15.jpg");}
+    50%  {background: url("../../Desktop/img/6.jpg");}
+    60%  {background: url("../../Desktop/img/7.jpg");}
+    70%   {background: url("../../Desktop/img/8.jpg");}
+    80%  {background: url("../../Desktop/img/9.jpg");}
+    90%  {background: url("../../Desktop/img/25.jpg");}
+    100% {background: url("../../Desktop/img/41.jpg");}
 
 }
 
